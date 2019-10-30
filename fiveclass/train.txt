@@ -4240,7 +4240,7 @@
 (0 (0 (2 (0 (1 (2 (2 Journalistically) (1 dubious)) (2 ,)) (1 inept)) (2 and)) (0 (2 often) (1 (2 lethally) (0 dull)))) (2 .))
 (1 (0 (2 (2 (2 Putting) (2 (1 (2 the) (2 (2 primitive) (1 murderer))) (2 (2 inside) (2 (2 a) (2 (2 high-tech) (2 (2 space) (2 station))))))) (3 unleashes)) (0 (2 (2 (2 a) (2 (2 Pandora) (2 's))) (2 Box)) (0 (2 of) (1 (2 (3 special) (2 effects)) (1 (2 that) (0 (2 (2 (2 run) (2 (2 the) (2 gamut))) (2 (2 from) (1 cheesy))) (1 (2 to) (1 (1 cheesier) (2 (2 to) (1 cheesiest)))))))))) (2 .))
 (3 (3 (2 At) (3 (2 its) (4 best))) (3 (2 ,) (3 (2 it) (3 (3 (2 's) (3 (2 (2 Black) (2 (2 Hawk) (2 Down))) (2 (2 with) (2 (2 more) (2 heart))))) (2 .)))))
-(2 (0 (2 At) (0 (2 its) (0 worst))) (2 (2 ,) (2 (2 it) (2 (2 (2 's) (2 (2 (2 Rambo) (2 -)) (2 (3 meets-John) (2 Ford)))) (2 .)))))
+(2 (2 (0 (2 At) (0 (2 its) (0 worst))) (2 (2 ,) (2 (2 it) (2 (2 's) (2 (2 Rambo) (2 (2 -) (2 (2 meets) (2 (2 -) (2 (2 John) (2 Ford)))))))))) (2 .))
 (2 (2 (2 Exactly) (3 (2 what) (3 (2 you) (2 (2 'd) (2 (2 expect) (2 (2 from) (2 (2 a) (2 guy)))))))) (2 (2 (2 named) (2 Kaos)) (2 .)))
 (1 (2 (2 This) (2 movie)) (0 (2 ...) (0 (0 (1 (2 does) (2 n't)) (0 (2 deserve) (0 (2 (2 the) (3 energy)) (0 (2 it) (0 (2 takes) (0 (2 to) (0 (2 describe) (1 (2 (2 how) (0 bad)) (3 (2 it) (2 is)))))))))) (2 .))))
 (1 (2 (2 With) (2 (2 or) (2 (2 without) (2 (2 ballast) (1 tanks))))) (1 (2 ,) (0 (2 K-19) (1 (2 (2 sinks) (1 (2 to) (1 (2 a) (1 (2 Harrison) (2 (2 Ford) (2 low)))))) (2 .)))))
