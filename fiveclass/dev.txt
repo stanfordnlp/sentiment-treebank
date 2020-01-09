@@ -257,7 +257,7 @@
 (1 (0 (3 (3 (2 (2 (2 A) (2 subject)) (2 (2 like) (2 this))) (3 (2 should) (3 (3 (3 inspire) (3 reaction)) (2 (2 in) (2 (2 its) (2 audience)))))) (2 ;)) (1 (2 (2 The) (2 Pianist)) (2 (2 does) (1 not)))) (2 .))
 (2 (2 Equilibrium) (3 (2 (2 is) (2 (2 what) (3 (2 (2 George) (2 Orwell)) (2 (2 might) (2 (2 have) (2 (2 imagined) (2 (2 had) (3 (2 (2 (2 today) (2 's)) (2 (2 mood-altering) (1 (2 drug) (2 therapy)))) (2 (2 been) (2 (3 envisioned) (2 (2 by) (1 (2 chemists) (2 (2 in) (2 1949)))))))))))))) (2 .)))
 (2 (2 Creepy) (3 (2 ,) (3 (2 (3 (3 authentic) (2 and)) (2 dark)) (2 .))))
-(2 (1 (2 This) (1 (1 disturbing) (2 bio-pic))) (3 (4 (2 is) (3 (2 hard) (2 (2 to) (1 forget)))) (2 .)))
+(2 (1 (2 This) (1 (1 disturbing) (2 biopic))) (3 (4 (2 is) (3 (2 hard) (2 (2 to) (1 forget)))) (2 .)))
 (4 (4 (2 (3 (3 (2 (2 (2 Martin) (2 and)) (2 Barbara)) (3 (2 are) (2 (3 (3 (3 complex) (2 characters)) (3 (2 --) (3 (2 sometimes) (3 (2 tender) (2 ,))))) (1 (2 sometimes) (1 angry))))) (2 --)) (2 and)) (4 (3 (3 (2 the) (3 (3 delicate) (2 performances))) (2 (2 by) (2 (2 (2 (2 Sven) (2 Wollter)) (2 and)) (2 (2 Viveka) (2 Seldahl))))) (2 (2 make) (3 (2 (2 their) (2 (2 (2 hopes) (2 and)) (1 frustrations))) (3 vivid))))) (2 .))
 (2 (3 (3 (2 (2 A) (2 twisty)) (2 ,)) (3 (2 (2 moody) (2 slice)) (2 (2 of) (2 (2 Southern) (2 Gothic))))) (2 ...))
 (2 (2 It) (2 (4 (3 (2 's) (4 (2 so) (3 good))) (1 (2 that) (3 (2 you) (1 (2 (2 can) (2 practically)) (2 (2 see) (1 (2 (2 the) (2 (2 Hollywood) (2 (2 `) (2 (2 suits) (2 '))))) (2 (2 (2 (2 trying) (2 (2 to) (2 (2 (2 put) (2 together)) (2 (2 the) (2 cast))))) (2 and)) (2 (2 filmmaking) (3 (2 (2 (3 team) (2 (2 for) (2 (2 the) (2 all-too)))) (2 -)) (2 (2 inevitable) (2 (2 American) (2 remake)))))))))))) (2 .)))
