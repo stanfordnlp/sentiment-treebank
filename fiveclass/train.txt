@@ -1799,7 +1799,7 @@
 (4 (4 (2 (2 The) (3 kind)) (3 (2 of) (4 (2 (2 sweet-and-sour) (2 (2 insider) (2 movie))) (3 (2 that) (4 (3 (2 film) (2 buffs)) (3 (2 will) (2 (3 (2 eat) (2 up)) (2 (2 like) (2 (2 (2 so) (2 much)) (2 gelati)))))))))) (2 .))
 (4 (2 (2 With) (2 (2 (2 `) (2 Bowling)) (2 (2 for) (2 Columbine)))) (3 (2 ,) (3 (2 ') (3 (2 (2 Michael) (2 Moore)) (2 (3 (2 (2 gives) (3 us)) (3 (4 (2 the) (3 (4 perfect) (2 (3 starting) (2 point)))) (2 (2 for) (2 (2 (2 a) (2 (2 national) (2 conversation))) (2 (2 about) (2 (2 (2 (1 (2 (2 guns) (2 ,)) (0 violence)) (2 ,)) (2 and)) (2 fear))))))) (2 .))))))
 (4 (2 (2 One) (2 (2 of) (2 (2 the) (2 year)))) (2 (3 (2 (2 's) (2 most)) (3 (1 weirdly) (3 (4 engaging) (2 (2 and) (2 (2 unpredictable) (2 (2 character) (2 pieces))))))) (2 .)))
-(4 (2 (2 One) (3 (2 of) (3 (2 the) (3 (4 best) (2 inside-show-biz))))) (2 (3 (2 yarns) (2 ever)) (2 .)))
+(4 (4 (3 (2 One) (3 (2 of) (3 (2 the) (3 (4 best) (2 (2 inside-show-biz) (2 yarns)))))) (2 ever)) (2 .))
 (2 (2 (1 (2 (1 (0 (0 (2 (2 None) (2 (2 of) (2 (2 his) (2 actors)))) (3 (2 stand) (1 out))) (2 ,)) (2 but)) (2 (2 that) (2 (2 (2 (2 's) (2 (2 less) (2 (2 of) (2 (2 a) (1 problem))))) (2 here)) (2 (2 than) (2 (2 it) (2 (2 would) (2 (2 be) (2 (2 in) (2 (2 another) (2 film)))))))))) (2 :)) (2 (2 Characterization) (2 (2 matters) (2 (2 less) (2 (2 than) (2 atmosphere)))))) (2 .))
 (4 (4 (4 (2 A) (4 (4 (3 terrifically) (4 entertaining)) (2 specimen))) (2 (2 of) (2 Spielbergian))) (3 (2 sci-fi) (2 .)))
 (4 (3 (2 A) (3 (2 (3 rare) (2 and)) (3 (2 lightly) (4 entertaining)))) (3 (2 (2 look) (2 (2 behind) (2 (2 (2 the) (2 curtain)) (2 (2 that) (3 (2 (2 separates) (2 comics)) (3 (2 from) (3 (2 (2 the) (2 people)) (3 (4 laughing) (2 (2 in) (2 (2 the) (2 crowd))))))))))) (2 .)))
