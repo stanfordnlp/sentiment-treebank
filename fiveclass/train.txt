@@ -170,7 +170,7 @@
 (2 (2 (3 (2 A) (4 (3 solid) (2 piece))) (2 (2 of) (3 (2 (2 journalistic) (2 work)) (3 (2 that) (1 (2 draws) (2 (2 (2 a) (2 picture)) (1 (2 of) (2 (2 (2 a) (2 man)) (2 (2 for) (1 (2 whom) (2 (2 (2 political) (3 expedience)) (1 (2 became) (2 (2 a) (2 (2 deadly) (2 (2 foreign) (2 policy)))))))))))))))) (2 .))
 (3 (2 (2 A) (3 (4 terrific) (2 insider))) (3 (2 (2 look) (2 (2 at) (3 (3 (2 the) (2 (3 (2 star) (2 (2 -) (2 making))) (2 machinery))) (2 (2 of) (2 tinseltown))))) (2 .)))
 (3 (2 It) (3 (3 (2 's) (3 (2 (2 a) (2 (2 diverting) (2 (2 enough) (2 hour-and-a-half)))) (2 (2 for) (2 (2 the) (3 (3 family) (2 audience)))))) (2 .)))
-(1 (3 (2 A) (2 (3 party-hearty) (2 teen))) (1 (0 (2 flick) (0 (2 that) (1 (2 scalds) (1 (2 like) (2 acid))))) (2 .)))
+(0 (0 (3 (2 A) (3 (3 party-hearty) (2 (2 teen) (2 flick)))) (0 (2 that) (1 (2 scalds) (1 (2 like) (2 acid))))) (2 .))
 (4 (3 (2 As) (3 (2 (2 giddy) (2 and)) (3 (3 whimsical) (2 (2 and) (3 (2 relevant) (2 today)))))) (2 (2 (2 as) (2 it)) (2 (2 (2 was) (2 (2 (2 270) (2 years)) (2 ago))) (2 .))))
 (4 (2 (2 The) (2 film)) (3 (3 (2 offers) (3 (2 an) (3 (3 intriguing) (2 (2 (2 what) (2 (2 -) (2 if))) (2 premise))))) (2 .)))
 (3 (2 (2 The) (2 Pianist)) (3 (3 (2 is) (2 (2 (2 the) (2 film)) (4 (2 (2 Roman) (2 Polanski)) (3 (2 may) (2 (2 have) (2 (2 been) (3 (2 born) (2 (2 to) (2 make))))))))) (2 .)))
