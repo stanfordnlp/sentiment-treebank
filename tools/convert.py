@@ -15,6 +15,4 @@ if __name__ == '__main__':
     convert('fiveclass/train.txt', 'binary/train-binary.txt')
     convert('fiveclass/dev.txt', 'binary/dev-binary.txt')
     convert('fiveclass/test.txt', 'binary/test-binary.txt')
-
-    
-    
+    convert('fiveclass/extra-train.txt', 'binary/extra-train-binary.txt')
